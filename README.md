@@ -70,3 +70,14 @@ This project is provided for educational and analytical purposes.
 
 Developed by Rudra Rathod.  
 Data source: IPL ball-by-ball data.
+
+---
+## Images
+![{6F1E39A7-CAE2-4DC6-A1DC-EB589817A05B}](https://github.com/user-attachments/assets/c3deef54-f735-40cc-aa6d-31c3caaded3d)
+![{74E69141-D9B2-4054-8FF3-CC0FE5D0B1E2}](https://github.com/user-attachments/assets/b758da6e-1f25-47d0-96a1-190b5b1f1345)
+![{DDF7F3DF-65F5-41A1-A64B-D0BA1F66BF29}](https://github.com/user-attachments/assets/98b68f56-9e08-4700-b418-908c3d259870)
+![{AD6C4B36-74A4-47B6-AD14-42B8230CC3DA}](https://github.com/user-attachments/assets/10c285e3-5f62-4632-b452-6b5234ea5883)
+
+
+
+
